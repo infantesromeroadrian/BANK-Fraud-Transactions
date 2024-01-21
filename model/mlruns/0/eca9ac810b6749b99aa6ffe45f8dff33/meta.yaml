@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/adrianinfantes/Desktop/AIR/CollegeStudies/MachineLearningPath/Portfolio/BankProjects/FraudTransactionsDetection/notebook/mlruns/0/eca9ac810b6749b99aa6ffe45f8dff33/artifacts
+end_time: 1705795036010
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eca9ac810b6749b99aa6ffe45f8dff33
+run_name: LogisticRegression
+run_uuid: eca9ac810b6749b99aa6ffe45f8dff33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705794796887
+status: 3
+tags: []
+user_id: adrianinfantes

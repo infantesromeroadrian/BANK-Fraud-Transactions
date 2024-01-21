@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/adrianinfantes/Desktop/AIR/CollegeStudies/MachineLearningPath/Portfolio/BankProjects/FraudTransactionsDetection/notebook/mlruns/0/9823e113168746508a1871363289fc3a/artifacts
+end_time: 1705794796873
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9823e113168746508a1871363289fc3a
+run_name: RandomForest
+run_uuid: 9823e113168746508a1871363289fc3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705794556195
+status: 3
+tags: []
+user_id: adrianinfantes
