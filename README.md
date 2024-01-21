@@ -24,7 +24,7 @@ The project is organized as follows:
 To set up the project environment:
 1. Clone the repository to your local machine 🖥️.
 2. Ensure that Python 3.6+ is installed 🐍.
-3. Install the required Python packages using `pip install -r requirements.txt` 📌.
+3. Install the required Python packages using `poetry install` 📌.
 
 ## Usage 🚀
 To run the Streamlit app locally:
@@ -43,7 +43,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact 📬
 - Your Name - your.email@example.com 📧
-- Project Link: [https://github.com/yourusername/fraud-detection-project](https://github.com/yourusername/fraud-detection-project) 🔗
+- Project Link: [https://github.com/infantesromeroadrian/BankFraudTransactions.git) 🔗
 
 ## Acknowledgments 💖
 - Thanks to the team for insights and contributions 🙏.
